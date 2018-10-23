@@ -5,6 +5,9 @@ import android.support.v7.app.AppCompatActivity
 import com.hengsheng.kotlinandjavasingletondemo.java.*
 import com.hengsheng.kotlinandjavasingletondemo.kotlin.*
 
+/**
+ * java和kotlin单例模式
+ */
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
